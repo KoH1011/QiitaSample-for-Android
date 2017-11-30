@@ -1,7 +1,8 @@
-package com.qiitasample
+package com.qiitasample.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.qiitasample.R
 
 class TopActivity : AppCompatActivity() {
 
